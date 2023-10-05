@@ -662,7 +662,7 @@ void _icar_dep_unuse(
  * @param cons : attribute number 
  * @param N : attribute size
  * @param ds : the decision attribute(class label) location
- * @param allsize : the size of all the attribute
+ * @param allsize : the size of all the records
  * @param initsize : the size of the initial records size
  * @param dsize : The number of instances deleted in each iteration
  * @param afa :
@@ -757,7 +757,7 @@ void test2(
  * @param cons : attribute number 
  * @param N : attribute size
  * @param ds : the decision attribute(class label) location
- * @param allsize : the size of all the attribute
+ * @param allsize : the size of all the records
  * @param initsize : the size of the initial records size
  * @param dsize : The number of instances deleted in each iteration
  * @param afa :
@@ -856,7 +856,7 @@ void test1(
  * @param cons : attribute number 
  * @param N : attribute size
  * @param ds : the decision attribute(class label) location
- * @param allsize : the size of all the attribute
+ * @param allsize : the size of all the records
  * @param initsize : the size of the initial records size
  * @param dsize : The number of instances deleted in each iteration
  * @param afa :
