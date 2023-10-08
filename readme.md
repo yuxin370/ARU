@@ -3,13 +3,16 @@ In the big data era, some data, becoming meaningless or illegal over time and sp
 
 ## Platform：
 Windows 10 professional
+
 Intel® Xeon® W-2145 CPU@ 3.70GHz
+
 128 GB memory 
 
 ## Usage
 - compile: make
 - clean: make clean
 - usage: test.exe start_of_conditionAttribute end_of_conditionAttribute decisionAttributePosition datasets initsize alpha  foldsize >> result_path
+
   eg: test.exe 1 19 20 demo 2310 0.3 5 >> result\demo\output.txt
 
 ## data split
