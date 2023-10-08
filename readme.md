@@ -15,5 +15,5 @@ Intel® Xeon® W-2145 CPU@ 3.70GHz
 
   eg: test.exe 1 19 20 demo 2310 0.3 5 >> result\demo\output.txt
 
-## data split
+## Data split
 we split the original datasets into six subsets and in each loop one subsets was removed. 
