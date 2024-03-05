@@ -17,3 +17,17 @@ Intel® Xeon® W-2145 CPU@ 3.70GHz
 
 ## Data split
 we split the original datasets into six subsets and in each loop one subsets was removed. 
+
+## Cite as
+@article{TANG2024109102,
+title = {Fuzzy rough unlearning model for feature selection},
+journal = {International Journal of Approximate Reasoning},
+volume = {165},
+pages = {109102},
+year = {2024},
+issn = {0888-613X},
+doi = {https://doi.org/10.1016/j.ijar.2023.109102},
+url = {https://www.sciencedirect.com/science/article/pii/S0888613X23002335},
+author = {Yuxin Tang and Suyun Zhao and Hong Chen and Cuiping Li and Junhai Zhai and Qiangjun Zhou},
+keywords = {Fuzzy rough sets, Unlearning, Feature selection, Positive region}
+}
